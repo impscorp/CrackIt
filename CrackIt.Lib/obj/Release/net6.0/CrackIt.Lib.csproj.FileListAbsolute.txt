@@ -1,0 +1,12 @@
+/Users/jonasvogel/RiderProjects/Crackit/CrackIt.Lib/bin/Release/net6.0/CrackIt.Lib.deps.json
+/Users/jonasvogel/RiderProjects/Crackit/CrackIt.Lib/bin/Release/net6.0/CrackIt.Lib.dll
+/Users/jonasvogel/RiderProjects/Crackit/CrackIt.Lib/bin/Release/net6.0/CrackIt.Lib.pdb
+/Users/jonasvogel/RiderProjects/Crackit/CrackIt.Lib/obj/Release/net6.0/CrackIt.Lib.csproj.AssemblyReference.cache
+/Users/jonasvogel/RiderProjects/Crackit/CrackIt.Lib/obj/Release/net6.0/CrackIt.Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonasvogel/RiderProjects/Crackit/CrackIt.Lib/obj/Release/net6.0/CrackIt.Lib.AssemblyInfoInputs.cache
+/Users/jonasvogel/RiderProjects/Crackit/CrackIt.Lib/obj/Release/net6.0/CrackIt.Lib.AssemblyInfo.cs
+/Users/jonasvogel/RiderProjects/Crackit/CrackIt.Lib/obj/Release/net6.0/CrackIt.Lib.csproj.CoreCompileInputs.cache
+/Users/jonasvogel/RiderProjects/Crackit/CrackIt.Lib/obj/Release/net6.0/CrackIt.Lib.dll
+/Users/jonasvogel/RiderProjects/Crackit/CrackIt.Lib/obj/Release/net6.0/refint/CrackIt.Lib.dll
+/Users/jonasvogel/RiderProjects/Crackit/CrackIt.Lib/obj/Release/net6.0/CrackIt.Lib.pdb
+/Users/jonasvogel/RiderProjects/Crackit/CrackIt.Lib/obj/Release/net6.0/ref/CrackIt.Lib.dll
